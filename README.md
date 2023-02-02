@@ -6,13 +6,10 @@ Você pode conferir meu resultado **[aqui](https://josephmatheus.github.io/super
 
 ## 🖼 Screenshots
 
----
 <img src="src/images/mario-landing-page-screenshot-desktop.png" alt="Screenshot desktop screen">
 <img src="src/images/mario-landing-page-screenshot-mobile.png" alt="Screenshot mobile screen" style="width: 250px;">
 
 ## 🛠 Construído com
-
----
 
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
 - [CSS](https://developer.mozilla.org/en-US/docs/Web/css)
@@ -20,7 +17,6 @@ Você pode conferir meu resultado **[aqui](https://josephmatheus.github.io/super
 
 ## ✍ Autor
 
----
 <a href="https://www.github.com/josephmatheus">
     <img src="https://avatars.githubusercontent.com/u/89085971?v=4" alt="Profile picture" width="100px" style="border-radius: 15%;">
     <p style="font-size: 16px;">Joseph Matheus</p>
