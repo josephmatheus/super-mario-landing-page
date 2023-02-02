@@ -8,7 +8,7 @@ Você pode conferir meu resultado **[aqui](https://josephmatheus.github.io/super
 
 ---
 <img src="src/images/mario-landing-page-screenshot-desktop.png" alt="Screenshot desktop screen">
-<img src="src/images/mario-landing-page-screenshot-mobile.png" alt="Screenshot mobile screen" style="width: 50%;">
+<img src="src/images/mario-landing-page-screenshot-mobile.png" alt="Screenshot mobile screen" style="width: 250px;">
 
 ## 🛠 Construído com
 
